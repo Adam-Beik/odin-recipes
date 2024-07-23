@@ -1,2 +1,2 @@
 # odin-recipes
-Odin recipes project.
+Odin recipes project repo. Wish me luck!
